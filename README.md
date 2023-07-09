@@ -12,7 +12,7 @@
 
 Connect with me:
 
-Email Address: ogbonnahenrypaul@gmail.com
-Phone Number: +2349127140791
-Website: https://e-henry.com/
+* Email Address: ogbonnahenrypaul@gmail.com
+* Phone Number: +2349127140791
+* Website: https://e-henry.com/
 
