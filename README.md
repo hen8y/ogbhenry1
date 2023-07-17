@@ -1,4 +1,4 @@
- **👋 Hi, I’m Ogbonna Henry Paul**
+### **👋 Hi, I’m Ogbonna Henry Paul**
  
  
 - I’m interested in anything Computer..LOL
@@ -6,7 +6,7 @@
 - 🌱 Frameworks: Bootstrap, Laravel, Nodejs, Vue js, Jquery
 
 
-Connect with me:
+####Connect with me:
 
 * Email Address: ogbonnahenrypaul@gmail.com
 
