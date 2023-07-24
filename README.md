@@ -2,8 +2,8 @@
  
  
 - I’m interested in anything Computer..LOL
-- HTML, CSS, JavaScript, PHP and MYSQL
-- 🌱 Frameworks: Bootstrap, Laravel, Nodejs, Vue js, Jquery
+- Languages: HTML, CSS, JavaScript, PHP, Python, MYSQL
+- 🌱 Frameworks: Bootstrap, Laravel, Vue js, Tailwind Css
 
 
 #### Connect with me:
